@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+source {
+    margin-bottom: 50px;
+    margin-right: 200px;
+    `
+}
+h1{
+    
+   margin-top: 50px;
+   margin-left: 100px;
+   display: block;
+}
+h2{
+    margin-top: 2px;
+   margin-left: 100px;
+   display: block;
+}
+header{
+    background-image: url(35mm_aerial_analog_analog_camera_architecture_big_city_black_and_white_building-1001081.JPG!D);
+    height: 100vh;
+    background-size: cover;
+    background-position: bottom;
+    background-position-y: 0px;
+    background-position-x: 0px;
+    background-repeat: no-repeat;
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 150px;
+    margin-right: 200px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 11px 20px;
+    border: 3px solid rgb(0, 217, 255);
+    transition: 0.6s ease;
+}
+p{
+    display: inline-block;
+}
+p a{
+    float: right;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: 0px;
+}

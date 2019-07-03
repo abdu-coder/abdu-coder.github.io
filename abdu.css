@@ -1,0 +1,46 @@
+/* <style type="text/css">  */
+
+text{
+ fill:black;transition: 1s fill;
+-moz-text-decoration-color: rgb(49, 210, 221);}
+text :hover{
+    fill: rgb(0, 0, 0);
+}
+text  :hover{
+    fill: rgb(0, 0, 0);
+}
+ text :hover{
+    fill: rgb(0, 0, 0);
+ }
+ 
+ul{
+    float: right;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-right: 0px;
+    font: normal 5px Arial, Helvetica, sans-serif
+}
+ul li{
+    display: inline-block;
+}
+ul li :hover{
+    fill: rgb(101, 197, 230);
+}
+ul li a {
+object-position: 50px;
+font: normal 300px Arial, Helvetica, sans-serif;
+transition: 0.6s ease;
+border: 1px solid rgb(0, 0, 0);
+}
+header{
+    background-color: rgb(165, 165, 165);
+
+   }
+   #navbar{
+    background-color: #333;
+    color:#fff;}
+    #navbar a{
+        color:rgb(8, 8, 8);
+        text-decoration: none;
+        font-size: 20px;
+        padding-right:20px;}
