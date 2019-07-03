@@ -20,7 +20,7 @@ h2{
    display: block;
 }
 header{
-    background-image: url(CAD-01.JPG);
+    background-color: rgb(170, 170, 170);
     height: 100vh;
     background-size: cover;
     background-position: bottom;
